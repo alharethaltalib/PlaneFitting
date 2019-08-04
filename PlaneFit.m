@@ -1,7 +1,7 @@
 clc;
 clear;
 close all;
-cd 'E:\Computer Vision\19gray\decode';
+cd 'E:\Computer Vision\decode';
 img = imread('scaledDisparityMap.png');
 dismap = imread('disparityMap.png');
 
