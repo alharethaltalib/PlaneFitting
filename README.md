@@ -1,5 +1,5 @@
 # PlaneFitting
-Fitting a plane to a 3D matrix and calculate the error from the acuired plane.
+Fitting a plane to a 3D captured plane and calculate the error from the acuired plane.
 
 ![fig](https://user-images.githubusercontent.com/18269686/62613920-f21f0f00-b8f9-11e9-8950-2514b8e79694.jpg)
 
